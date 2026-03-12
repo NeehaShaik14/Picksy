@@ -51,7 +51,7 @@ Picksy demonstrates how WordPress can be used to:
 A short screen-recorded walkthrough of the project is available here:
 
 👉 **YouTube Demo:**  
-https://youtu.be/YOUR_YOUTUBE_LINK
+https://youtu.be/AjeuDVvvLV4
 
 The video demonstrates:
 - Homepage overview
