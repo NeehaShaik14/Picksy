@@ -39,16 +39,16 @@ Picksy demonstrates how WordPress can be used to:
 📸 Screenshots
 
 ### Homepage
-screenshots/home.png
+Screenshots/home.png
 
 ### Frontend Contribute Form
-screenshots/contribute.png
+Screenshots/contribute.png
 
 ### Submitted Picks
-screenshots/picks.png
+Screenshots/picks.png
 
 ### Submitted Single Pick
-screenshots/singlepick.png
+Screenshots/singlepick.png
 
 ---
 
