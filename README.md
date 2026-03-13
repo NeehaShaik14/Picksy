@@ -36,6 +36,22 @@ Picksy demonstrates how WordPress can be used to:
 
 ---
 
+📸 Screenshots
+
+### Homepage
+screenshots/home.png
+
+### Frontend Contribute Form
+screenshots/contribute.png
+
+### Submitted Picks
+screenshots/picks.png
+
+### Submitted Single Pick
+screenshots/singlepick.png
+
+---
+
 ## 🧠 My Role & Responsibilities
 
 - Built the website from scratch using WordPress
